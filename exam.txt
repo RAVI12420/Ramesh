@@ -1,0 +1,67 @@
+Description
+
+As a user
+
+I want to book hall in locality
+
+So that i can hold can carnival
+
+Scope
+
+User should be able to find the hall in specific locality.
+
+Pre condition
+
+User should specify where they are looking for.
+
+User should find hall in karnataka.
+
+Acceptance criteria
+
+Scenario 1
+
+user should be able to choose where they want in karnataka.
+
+User can find the hall in their locality.
+
+User can find halls by searching the hall name.
+
+User should be easily find halls by turning on location.
+
+Scenario 2
+
+User cannot find hall outside karnataka.
+
+user cannot find hall if they are offline.
+
+22
+As a user
+
+I want to check the availability
+
+So that i can book the hall
+
+Scope
+
+User should be able to see the availability of hall for specific date.
+
+Pre condition
+
+User should choose a hall to check the availability.
+
+Acceptance criteria
+
+Scenario 1
+
+User should be able to view hall description.
+
+User should be able to see the availability by providing the date in specific hall page.
+
+User can see if the hall is available in some near days to the required given date.
+
+Scenario 2
+
+User cannot see when is the hall is available without giving specific date.
+
+user cannot see available dates if they are in main page.
+User cannot find halls easily if their location is turned off.
